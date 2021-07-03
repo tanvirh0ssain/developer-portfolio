@@ -1,0 +1,33 @@
+body{
+    font-family: 'Cinzel', serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+    
+}
+.dimgray{
+    color: rgba(255, 166, 0, 0.705)
+}
+section{
+    display: flex;
+}
+.half{
+    width: 50%;
+    padding-left: 3%;
+}
+.half img{
+    width: 72%;
+}
+.link{
+    text-decoration: none;
+    background-image: linear-gradient(rgba(135, 207, 235, 0.74), rgba(0, 0, 255, 0.473));
+    padding: 06px 35px;
+    border-radius: 08%;
+    color: rgba(0, 2, 128, 0.822);
+    font-weight: 760;
+}
+.banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
